@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Pablo Moisés
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Pablo Moisés, tenho 17 anos e sou natural de Minas Gerais. Estou cursando o ensino medio no Terceiro ano, Cursando Cibersistemas para automação na industria 4.0 no Senai Centro de aprendizagem da industria 4.0. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu github.
 
