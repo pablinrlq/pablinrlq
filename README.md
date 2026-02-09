@@ -15,7 +15,7 @@
 
 
 ```lua
-DarkModeBR@GitHub
+pablinrlq@GitHub
 ▔▔▔▔▔▔▔▔▔▔
 OS: Windows 10 x64
 Shell: Windows Terminal
