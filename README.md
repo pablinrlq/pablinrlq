@@ -5,16 +5,12 @@
     <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=I+always+come+back..."/>
 </a>
 
-<a href="#"><img align="left" src="https://i.imgur.com/bCErumI.png" width="171"/> 
-
-
 ```lua
 pablinrlq@GitHub
-▔▔▔▔▔▔▔▔▔▔
 OS: Windows 10 x64
 Shell: Windows Terminal
 Location: Brasil, MG
-Learning: TypeScript. C# and AWS
+Learning: TypeScript and AWS
 Languages: None
 Hobbies: Jiu-Jitsu, Sleep, Programming.
 ```
