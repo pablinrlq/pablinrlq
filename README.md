@@ -5,8 +5,6 @@
     <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=I+always+come+back..."/>
 </a>
 
-<br><br><br>
-
 <a href="#"><img align="left" src="https://i.imgur.com/bCErumI.png" width="171"/> 
 
 
