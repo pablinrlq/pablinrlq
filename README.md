@@ -41,19 +41,28 @@ Hobbies:   Jiu-Jitsu, programar e dormir
 ### Certificações
 
 <p align="center">
-  <a href="https://www.credly.com/badges/d54eb0bf-e922-4f8d-a3f9-d40d376d9102/public_url"><img src="assets/badges/saa.png" width="150" alt="AWS Certified Solutions Architect – Associate"/></a>
+  <a href="https://www.credly.com/badges/d54eb0bf-e922-4f8d-a3f9-d40d376d9102/public_url"><img src="assets/badges/saa.png" width="170" alt="AWS Certified Solutions Architect – Associate"/></a>
 </p>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/de31f9de-2170-4bf2-ac12-951231eb2674/public_url"><img src="assets/badges/cloud-security-builder.png" width="95" alt="AWS Academy Graduate: Cloud Security Builder"/></a>
-  <a href="https://www.credly.com/badges/37f6cb9a-e19a-4ccf-919f-26224a9abffc/public_url"><img src="assets/badges/data-pipeline-builder.png" width="95" alt="AWS Academy Graduate: Cloud Data Pipeline Builder"/></a>
-  <a href="https://www.credly.com/badges/bae1140d-dc07-460e-943f-d5246b6937e4/public_url"><img src="assets/badges/cloud-quest-sa.png" width="95" alt="AWS Cloud Quest: Solutions Architect"/></a>
-  <a href="https://www.credly.com/badges/f6adb149-ea6e-43cd-91d1-4825095d6638/public_url"><img src="assets/badges/cloud-quest-serverless.png" width="95" alt="AWS Cloud Quest: Serverless Developer"/></a>
-  <a href="https://www.credly.com/badges/95cf9d0b-589a-41a8-9b2b-1754e408ea26/public_url"><img src="assets/badges/serverless-demonstrated.png" width="95" alt="AWS Serverless Demonstrated"/></a>
-  <a href="https://www.credly.com/badges/a73b7b97-0a4b-4dbd-a07e-426ad5150a46/public_url"><img src="assets/badges/cisco-network-defense.png" width="95" alt="Cisco Network Defense"/></a>
+  <a href="https://www.credly.com/badges/d1f46d82-6787-4bfe-8b40-5b9361460232/public_url"><img src="assets/badges/incident-response-demonstrated.png" width="105" alt="AWS Incident Response Demonstrated"/></a>
+  <a href="https://www.credly.com/badges/f25c43cf-a285-4f8d-b858-45d10f8c63ca/public_url"><img src="assets/badges/application-networking-demonstrated.png" width="105" alt="AWS Application Networking Demonstrated"/></a>
+  <a href="https://www.credly.com/badges/95cf9d0b-589a-41a8-9b2b-1754e408ea26/public_url"><img src="assets/badges/serverless-demonstrated.png" width="105" alt="AWS Serverless Demonstrated"/></a>
 </p>
 
-<p align="center"><sub>Clique em um badge para verificar no Credly</sub></p>
+<p align="center">
+  <a href="https://www.credly.com/badges/de31f9de-2170-4bf2-ac12-951231eb2674/public_url"><img src="assets/badges/cloud-security-builder.png" width="88" alt="AWS Academy Graduate: Cloud Security Builder"/></a>
+  <a href="https://www.credly.com/badges/37f6cb9a-e19a-4ccf-919f-26224a9abffc/public_url"><img src="assets/badges/data-pipeline-builder.png" width="88" alt="AWS Academy Graduate: Cloud Data Pipeline Builder"/></a>
+  <a href="https://www.credly.com/badges/bae1140d-dc07-460e-943f-d5246b6937e4/public_url"><img src="assets/badges/cloud-quest-sa.png" width="88" alt="AWS Cloud Quest: Solutions Architect"/></a>
+  <a href="https://www.credly.com/badges/f6adb149-ea6e-43cd-91d1-4825095d6638/public_url"><img src="assets/badges/cloud-quest-serverless.png" width="88" alt="AWS Cloud Quest: Serverless Developer"/></a>
+  <a href="https://www.credly.com/badges/a73b7b97-0a4b-4dbd-a07e-426ad5150a46/public_url"><img src="assets/badges/cisco-network-defense.png" width="88" alt="Cisco Network Defense"/></a>
+</p>
+
+<p align="center">
+  <a href="https://mesa.linuxtips.io/badges/ed9e6062-19c1-4905-a523-bef2e156d4c5"><img src="https://img.shields.io/badge/LINUXtips-Copa_do_Linux_Cloud_Native_2026-FCC624?style=flat-square&logo=linux&logoColor=black" alt="LINUXtips: Plantão 2026, Copa do Linux Cloud Native"/></a>
+</p>
+
+<p align="center"><sub>Clique em um badge para verificar a credencial</sub></p>
 
 ### Contato
 
