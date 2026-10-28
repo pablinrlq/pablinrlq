@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d1117,100:a3e635&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d1117,100:7c3aed&section=header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2500&color=A3E635&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Pablo;Full-stack+%2B+Cloud+(AWS);AWS+Solutions+Architect+Associate;I+always+come+back..." alt="Olá, eu sou o Pablo"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2500&color=A78BFA&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Pablo;Full-stack+%2B+Cloud+(AWS);AWS+Solutions+Architect+Associate;I+always+come+back..." alt="Olá, eu sou o Pablo"/>
 </div>
 
 <img align="right" src="https://i.imgur.com/bCErumI.png" width="160"/>
@@ -13,7 +13,7 @@ Nome:      Pablo Moises
 Local:     Minas Gerais, Brasil
 Foco:      Full-stack (React + Node) e Cloud (AWS)
 Cert:      AWS Solutions Architect – Associate
-Estudando: C#, segurança em nuvem e arquitetura de sistemas
+Estudando: Kubernetes e AWS
 Hobbies:   Jiu-Jitsu, programar e dormir
 ```
 
@@ -71,7 +71,7 @@ Hobbies:   Jiu-Jitsu, programar e dormir
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pablinrlq&style=flat-square&label=visitas&color=a3e635" alt="visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=pablinrlq&style=flat-square&label=visitas&color=7c3aed" alt="visitas"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:a3e635,100:0d1117&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7c3aed,100:0d1117&section=footer"/>
