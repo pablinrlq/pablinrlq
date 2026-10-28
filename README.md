@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d1117,100:a3e635&section=header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2500&color=A3E635&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Pablo;Full-stack+%2B+Cloud+(AWS);I+always+come+back..." alt="Olá, eu sou o Pablo"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2500&color=A3E635&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Pablo;Full-stack+%2B+Cloud+(AWS);AWS+Solutions+Architect+Associate;I+always+come+back..." alt="Olá, eu sou o Pablo"/>
 </div>
 
 <img align="right" src="https://i.imgur.com/bCErumI.png" width="160"/>
@@ -12,7 +12,8 @@ pablinrlq@GitHub
 Nome:      Pablo Moises
 Local:     Minas Gerais, Brasil
 Foco:      Full-stack (React + Node) e Cloud (AWS)
-Estudando: AWS, C# e arquitetura de sistemas
+Cert:      AWS Solutions Architect – Associate
+Estudando: C#, segurança em nuvem e arquitetura de sistemas
 Hobbies:   Jiu-Jitsu, programar e dormir
 ```
 
@@ -37,11 +38,26 @@ Hobbies:   Jiu-Jitsu, programar e dormir
 
 <sub>Mais: [previsão de vendas com ML](https://github.com/pablinrlq/Machine-Learning) · [monitoramento de temperatura em C#](https://github.com/pablinrlq/SistemaMonitoramento)</sub>
 
-### Certificação
+### Certificações
 
-<a href="https://www.credly.com/badges/37f6cb9a-e19a-4ccf-919f-26224a9abffc/public_url">
-  <img src="https://raw.githubusercontent.com/pablinrlq/CloudPipeLineCoffe/main/assets/badge-cloud-data-pipeline-builder.png" width="110" alt="AWS Academy Graduate: Cloud Data Pipeline Builder"/>
-</a>
+<p align="center">
+  <a href="https://www.credly.com/badges/d54eb0bf-e922-4f8d-a3f9-d40d376d9102/public_url"><img src="assets/badges/saa.png" width="150" alt="AWS Certified Solutions Architect – Associate"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/de31f9de-2170-4bf2-ac12-951231eb2674/public_url"><img src="assets/badges/cloud-security-builder.png" width="95" alt="AWS Academy Graduate: Cloud Security Builder"/></a>
+  <a href="https://www.credly.com/badges/37f6cb9a-e19a-4ccf-919f-26224a9abffc/public_url"><img src="assets/badges/data-pipeline-builder.png" width="95" alt="AWS Academy Graduate: Cloud Data Pipeline Builder"/></a>
+  <a href="https://www.credly.com/badges/bae1140d-dc07-460e-943f-d5246b6937e4/public_url"><img src="assets/badges/cloud-quest-sa.png" width="95" alt="AWS Cloud Quest: Solutions Architect"/></a>
+  <a href="https://www.credly.com/badges/f6adb149-ea6e-43cd-91d1-4825095d6638/public_url"><img src="assets/badges/cloud-quest-serverless.png" width="95" alt="AWS Cloud Quest: Serverless Developer"/></a>
+  <a href="https://www.credly.com/badges/95cf9d0b-589a-41a8-9b2b-1754e408ea26/public_url"><img src="assets/badges/serverless-demonstrated.png" width="95" alt="AWS Serverless Demonstrated"/></a>
+  <a href="https://www.credly.com/badges/a73b7b97-0a4b-4dbd-a07e-426ad5150a46/public_url"><img src="assets/badges/cisco-network-defense.png" width="95" alt="Cisco Network Defense"/></a>
+</p>
+
+<p align="center"><sub>Clique em um badge para verificar no Credly</sub></p>
+
+### Contato
+
+<a href="https://www.linkedin.com/in/pablindev/"><img src="https://img.shields.io/badge/LinkedIn-pablindev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br/>
 
