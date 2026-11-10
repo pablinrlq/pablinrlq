@@ -43,7 +43,7 @@ Hobbies:   Jiu-Jitsu, programar e dormir
 
 <p align="center">
   <a href="https://www.credly.com/badges/d54eb0bf-e922-4f8d-a3f9-d40d376d9102/public_url"><img src="assets/badges/saa.png" width="170" alt="AWS Certified Solutions Architect – Associate"/></a>
-  <a href="https://www.credly.com/badges/2a165124-317d-49e7-bbd6-6873534fc486/public_url"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/linkedin_thumb_image.png" width="170" alt="AWS Certified Developer – Associate"/></a>
+  <a href="https://www.credly.com/badges/2a165124-317d-49e7-bbd6-6873534fc486/public_url"><img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="170" alt="AWS Certified Developer – Associate"/></a>
 </p>
 
 <p align="center">
