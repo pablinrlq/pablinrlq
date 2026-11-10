@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d1117,100:7c3aed&section=header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2500&color=A78BFA&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Pablo;Full-stack+%2B+Cloud+(AWS);AWS+Solutions+Architect+Associate;I+always+come+back..." alt="Olá, eu sou o Pablo"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2500&color=A78BFA&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Pablo;Full-stack+%2B+Cloud+(AWS);Solutions+Architect+%2B+Developer+(AWS);I+always+come+back..." alt="Olá, eu sou o Pablo"/>
 </div>
 
 <img align="right" src="https://i.imgur.com/bCErumI.png" width="160"/>
@@ -13,6 +13,7 @@ Nome:      Pablo Moises
 Local:     Minas Gerais, Brasil
 Foco:      Full-stack (React + Node) e Cloud (AWS)
 Cert:      AWS Solutions Architect – Associate
+           AWS Developer – Associate
 Estudando: Kubernetes e AWS
 Hobbies:   Jiu-Jitsu, programar e dormir
 ```
@@ -42,6 +43,7 @@ Hobbies:   Jiu-Jitsu, programar e dormir
 
 <p align="center">
   <a href="https://www.credly.com/badges/d54eb0bf-e922-4f8d-a3f9-d40d376d9102/public_url"><img src="assets/badges/saa.png" width="170" alt="AWS Certified Solutions Architect – Associate"/></a>
+  <a href="https://www.credly.com/badges/2a165124-317d-49e7-bbd6-6873534fc486/public_url"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/linkedin_thumb_image.png" width="170" alt="AWS Certified Developer – Associate"/></a>
 </p>
 
 <p align="center">
